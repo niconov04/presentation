@@ -20,8 +20,8 @@
 - 🤹🏽‍♀️Comunicativa, confiante e curiosa. 
 
 ### 🌸MEUS ATUAIS FOCOS:
-- Front-end (HTML, CSS, JS, REACTJS);
 - Back-end (Node.JS, Kotlin, Python, GO, C#);
+- Inteligência Artificial (Machine Learning, IA Generativa, Visão Computacional, Processamento de Linguagem natural e Robótica Inteligente.  
 - UI/UX DESIGN;
 - Prover sistemas de pequeno e médio porte.
 
